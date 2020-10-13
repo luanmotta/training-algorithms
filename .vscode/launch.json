@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/oldTests/recursive/palindromo.js",
+      "program": "${workspaceFolder}/screenings/screening1/screeningRemake/screeningReamke3.js",
       "outputCapture": "std"
     }
   ]
